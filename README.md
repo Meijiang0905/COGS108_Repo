@@ -1,3 +1,3 @@
 # COGS108_Repo
 
-Hi, this is a sentence!
+Hi, this is for the COGS 108 Assignment!
